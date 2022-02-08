@@ -1,6 +1,6 @@
 # SQL
 
-Repositorio de scripts para os SGBD´s : 
+Scripts com dicas em geral para os seguintes SGBD´s : 
 
 - Sql Server
 - Oracle
